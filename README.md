@@ -1,4 +1,4 @@
-# Clustering
+# KMeans Clustering
 
 ## Description
 This repository documents my implementation in Python of K-Means clustering algorithm for Image Compression task as part of Machine Learning course I took a Bar-Ilan University.
